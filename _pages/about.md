@@ -24,12 +24,14 @@ Publications
 ======
 **Helix: A RAN Slicing Based Scheduling Framework for Massive MIMO Networks**<br>
 **Qing An**, Divyanshu Pandey, Rahman Doost-Mohammady, Ashutosh Sabharwal, Srinivas Shakkottai<br>
-<span style=“color: grey”>ACM CoNEXT 2024 (To Appear)</span><br>
+<span style="color: grey;">ACM CoNEXT 2024 (To Appear)</span><br>
+
 **A Deep Reinforcement Learning-Based Resource Scheduler for Massive MIMO Networks**<br>
 **Qing An**, Santiago Segarra, Chris Dick, Ashutosh Sabharwal ,Rahman Doost-Mohammady<br>
-<span style=“color: grey”>IEEE TMLCN 2023</span><br>
+<span style="color: grey;">IEEE TMLCN 2023</span><br>
 [Paper](https://ieeexplore.ieee.org/document/10247079) | [Code](https://github.com/qingan27/SMART)
+
 **ML-Based Feedback-Free Adaptive MCS Selection for Massive Multi-User MIMO**<br>
 **Qing An**, Mehdi Zafari, Chris Dick, Santiago Segarra, Ashutosh Sabharwal ,Rahman Doost-Mohammady<br>
-<span style=“color: grey”>IEEE Asilomar 2023</span><br>
+<span style="color: grey;">IEEE Asilomar 2023</span><br>
 [Paper](https://ieeexplore.ieee.org/abstract/document/10476866) | [Code](https://github.com/qingan27/ML-Based-Feedback-Free-Adaptive-MCS-Selection-for-Massive-Multi-User-MIMO)
