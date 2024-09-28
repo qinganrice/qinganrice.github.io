@@ -12,6 +12,16 @@ Recent News!
 
 Recent News!
 ======
+
+<div class="publication-entry">
+  <img src="/images/3.png" alt="Helix Publication" class="publication-image">
+  <div class="publication-details">
+    **Helix: A RAN Slicing Based Scheduling Framework for Massive MIMO Networks**<br>
+    **Qing An**, Divyanshu Pandey, Rahman Doost-Mohammady, Ashutosh Sabharwal, Srinivas Shakkottai<br>
+    <span style="color: grey;">ACM CoNEXT 2024 (To Appear)</span><br>
+  </div>
+</div>
+
 - **September 2024**: Our paper “Helix: A RAN Slicing Based Scheduling Framework for Massive MIMO Networks” is accepted to [ACM CoNEXT'24](https://conferences.sigcomm.org/co-next/2024/#!/home). See you in LA!
 - **May 2024**: Excited to announce that I will be joining [Mavenir System Inc.](https://www.mavenir.com/) (Dallas, TX) as a summer intern to work on AI/ML in Open RAN.
 - **December 2023**: Successfully defended my MS thesis, “Machine Learning-Based Resource Scheduling and Link Adaptation in Massive MIMO Networks”.
