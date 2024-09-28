@@ -21,7 +21,7 @@ repository               : "qinganrice/qinganrice.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "qing.png"
   name             : "Qing An"
   pronouns         : # example: "she/her"  
   bio              : "ECE PhD Student @ Rice"
