@@ -6,17 +6,6 @@
 
 main:
 
-  - title: "Talks"
-    url:     
-
-  - title: "Teaching"
-    url:   
-    
-  - title: "Portfolio"
-    url:
-        
-  - title: "Blog Posts"
-    url:
     
   - title: "CV"
     url: "/files/QingAn_Resume.pdf"
